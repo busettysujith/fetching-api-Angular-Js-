@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "name": "Madhav",
+      "age": 25,
+      "occupation": "Farmer"
+    },
+    {
+      "name": "Sujith",
+      "age": 24,
+      "occupation": "UI Developer"
+    },
+    {
+      "name": "Mahesh",
+      "age": 50,
+      "occupation": "Pharmacist"
+    },
+    {
+      "name": "Bhaskar",
+      "age": 22,
+      "occupation": "Bank Manager"
+    },
+    {
+      "name": "Siddu",
+      "age": 23,
+      "occupation": "Business Man"
+    },
+    {
+      "name": "Chenna",
+      "age": 25,
+      "occupation": "Stock Exchange"
+    },
+    {
+      "name": "Irshad",
+      "age": 26,
+      "occupation": "Software Engineer"
+    }
+  ]
+}
